@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Honda Civic",
+    "description": "Sedán deportivo",
+    "price": 28000,
+    "thumbnail": "civic.jpg",
+    "code": "HON002",
+    "stock": 9
+  },
+  {
+    "title": "Ford Mustang",
+    "description": "Coupé deportivo",
+    "price": 50000,
+    "thumbnail": "mustang.jpg",
+    "code": "FOR003",
+    "stock": 5
+  }
+]
